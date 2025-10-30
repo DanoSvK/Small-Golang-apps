@@ -1,0 +1,89 @@
+{
+ "habits": [
+  {
+   "name": "Read Book",
+   "dates_completed": [
+    "2025-04-10",
+    "2025-04-11",
+    "2025-04-12"
+   ],
+   "goal": 15
+  },
+  {
+   "name": "Exercise",
+   "dates_completed": [
+    "2025-04-08",
+    "2025-04-09",
+    "2025-11-11"
+   ],
+   "goal": 10
+  },
+  {
+   "name": "",
+   "dates_completed": null,
+   "goal": 5
+  },
+  {
+   "name": "exmaple",
+   "dates_completed": [
+    "2025-04-10",
+    "2025-04-11",
+    "2025-04-12",
+    "2022-11-11"
+   ],
+   "goal": 10
+  },
+  {
+   "name": "running",
+   "dates_completed": [
+    "2025-04-10",
+    "2025-04-11",
+    "2025-04-12",
+    "2025-04-19",
+    "2028-12-12"
+   ],
+   "goal": 10
+  },
+  {
+   "name": "running",
+   "dates_completed": [
+    "2025-04-10",
+    "2025-04-11",
+    "2025-04-12",
+    "2024-11-12",
+    "2028-12-12"
+   ],
+   "goal": 0
+  },
+  {
+   "name": "exercise",
+   "dates_completed": [
+    "2027-12-05"
+   ],
+   "goal": 0
+  },
+  {
+   "name": "cooking",
+   "dates_completed": [
+    "2028-12-12",
+    "2029-12-12"
+   ],
+   "goal": 5
+  },
+  {
+   "name": "cooking",
+   "dates_completed": [
+    "2029-12-12"
+   ],
+   "goal": 0
+  },
+  {
+   "name": "pesko",
+   "dates_completed": [
+    "2027-12-12",
+    "2021-12-12"
+   ],
+   "goal": 5
+  }
+ ]
+}

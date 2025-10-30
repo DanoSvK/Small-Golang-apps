@@ -1,0 +1,19 @@
+{
+  "io_manager": {
+    "input_file_path": "prices.txt",
+    "output_file_path": "result_10.json"
+  },
+  "tax_rate": 0.1,
+  "input_prices": [
+    9.99,
+    10.49,
+    15.89,
+    12
+  ],
+  "tax_included_prices": {
+    "10.49": "11.54",
+    "12.00": "13.20",
+    "15.89": "17.48",
+    "9.99": "10.99"
+  }
+}

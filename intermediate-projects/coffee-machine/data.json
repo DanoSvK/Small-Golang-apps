@@ -1,0 +1,34 @@
+{
+ "menu": {
+  "cappuccino": {
+   "ingredients": {
+    "water": 250,
+    "milk": 100,
+    "coffee": 24
+   },
+   "cost": 3
+  },
+  "espresso": {
+   "ingredients": {
+    "water": 50,
+    "milk": 0,
+    "coffee": 18
+   },
+   "cost": 1.5
+  },
+  "latte": {
+   "ingredients": {
+    "water": 200,
+    "milk": 150,
+    "coffee": 24
+   },
+   "cost": 2.5
+  }
+ },
+ "resources": {
+  "coffee": 220,
+  "milk": 560,
+  "money": 7.5,
+  "water": 870
+ }
+}
